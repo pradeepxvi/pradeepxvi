@@ -23,17 +23,18 @@
   
   <!-- Row 2 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" style="width: 40px; height: 40px;"/>
+  
+</div>
+
+<!-- Add Java and C as extra icons -->
+<div style="display: grid; grid-template-columns: repeat(2, 50px); gap: 15px; justify-content: center; margin-top: 15px;" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" style="width: 40px; height: 40px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" style="width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" style="width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" title="Tailwind" style="width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" style="width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" style="width: 40px; height: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" style="width: 40px; height: 40px;"/>
-</div>
-
-<!-- Add Java and C as extra icons -->
-<div style="display: grid; grid-template-columns: repeat(2, 50px); gap: 15px; justify-content: center; margin-top: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" style="width: 40px; height: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" style="width: 40px; height: 40px;"/>
 </div>
 
 
