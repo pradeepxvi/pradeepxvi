@@ -57,4 +57,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pradeepxvi&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pradeepxvi&theme=tokyonight" width="48%" />
-</p> fix it alight center to tech stacks a tailwind iconis not showinf, keep tech stack in two row with equal number of colums
+</p> 
