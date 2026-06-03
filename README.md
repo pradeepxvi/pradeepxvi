@@ -1,6 +1,6 @@
 # 👋 Pradeep
 
-Computer Science Student from Nepal 🇳🇵
+Computer Science Student from Kathmandu Nepal 🇳🇵
 
 - 🐍 Python Enthusiast
 - 💻 Learning Software Development
